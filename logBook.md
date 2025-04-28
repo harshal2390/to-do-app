@@ -7,17 +7,20 @@
 
 ## 📅 Weekly Progress
 
-Week | Date Range | Tasks Completed | Next Steps
-1 | 19/8/24 - 24/8/24 | Introduction: Project Background, Motivation | Finalize problem statement
-2 | 26/8/24 - 31/8/24 | Introduction: Problem Statement, Objectives | Plan literature survey
-3 | 2/9/24 - 7/9/24 | Literature Survey: Reviewed existing freelancing platforms, identified limitations | Tabulate findings
-4 | 9/9/24 - 21/9/24 | Proposed System: Overall Architecture, Module Division | Finalize technology stack
-5 | 23/9/24 - 28/9/24 | Requirements: Frontend (React), Backend API (Nodejs express mongodb), Database (MySQL) | Start frontend and backend setup
-6 | 30/9/24 - 5/10/24 | Methodology: Created workflow diagrams and ER diagrams | Start Module 1: Freelancer & Employer Management
-7 | 7/10/24 - 12/10/24 | Module 1: Freelancer Profile Creation, Employer Registration, Job Posting (completed basic version) | Backend API integration
-8 | 14/10/24 - 19/10/24 | Module 2: Implemented AI Job Matching system (Python model for skill-job matching) | Improve model accuracy
-9 | 21/10/24 - 26/10/24 | Module 3: Built-in real-time messaging (WebSocket), Milestone tracking, File sharing system completed | Testing collaboration tools
-10 | 28/10/24 - 2/11/24 | Outcome: Integrated Modules 1, 2, and 5; Report writing, deployment preparation | Start Module 3: Secure Payment System
+## Weekly Progress
+
+| Week | Date Range       | Tasks Completed                                                       | Next Steps                        |
+|------|------------------|----------------------------------------------------------------------|-----------------------------------|
+| 1    | 19/8/24 - 24/8/24 | Introduction: Project Background, Motivation                         | Finalize problem statement       |
+| 2    | 26/8/24 - 31/8/24 | Introduction: Problem Statement, Objectives                          | Plan literature survey           |
+| 3    | 2/9/24 - 7/9/24  | Literature Survey: Reviewed existing freelancing platforms, identified limitations | Tabulate findings                 |
+| 4    | 9/9/24 - 21/9/24 | Proposed System: Overall Architecture, Module Division               | Finalize technology stack         |
+| 5    | 23/9/24 - 28/9/24 | Requirements: Frontend (React), Backend API (Nodejs express mongodb), Database (MySQL) | Start frontend and backend setup  |
+| 6    | 30/9/24 - 5/10/24 | Methodology: Created workflow diagrams and ER diagrams               | Start Module 1: Freelancer & Employer Management |
+| 7    | 7/10/24 - 12/10/24 | Module 1: Freelancer Profile Creation, Employer Registration, Job Posting (completed basic version) | Backend API integration          |
+| 8    | 14/10/24 - 19/10/24 | Module 2: Built-in real-time messaging (WebSocket), Milestone tracking, File sharing system completed | Testing collaboration tools      |
+| 9    | 21/10/24 - 26/10/24 | Outcome: Integrated Modules 1, 2, and 3; Report writing, deployment preparation | Start Module 3: Secure Payment System |
+
 
 ---
 
