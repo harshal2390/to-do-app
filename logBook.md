@@ -1,6 +1,6 @@
 # 📝 LOG BOOK
 
-**Real-Time Sign Language Translator App**  
+**Freelancing Platform-Fiver**  
 **Semester Project - III (Sem-V, 2024-25)**
 
 ---
@@ -50,8 +50,6 @@
 
 ### 2.1.1 Comparative Analysis of Sign Language Translation Methods
 
-![Adoption Rate of Different Methods](doc/adoption-rate-image.png)
-
 #### Detailed Comparison Table
 
 ## Freelancing Platform Comparison
@@ -62,7 +60,6 @@
 | **Freelancer.com** | Variety of jobs              | Fake job postings, quality issues | 10% commission   | Basic matching            |
 | **Fiverr**      | Quick gig posting             | Limited for large projects    | 20% commission   | No smart matching         |
 
-
 ---
 
 ## 2.2 Research Gaps
@@ -72,7 +69,7 @@
 - Lack of skill-based intelligent job matching.
 - No escrow-based automatic payment release upon project completion.
 - Poor built-in real-time communication and project tracking tools.
-  ![Research Gaps Analysis](doc/research-gaps-image.png)
+
 
 ## 2.2 Summary of Findings
 
@@ -106,18 +103,6 @@
 | Secure Payment & Escrow       | Payment Gateway API, SQL            |
 | Communication Tools           | WebSocket, Cloud Storage            |
 | Analytics & Insights          | MySQL Queries, Data Visualization   |
-
-
-##### 3.2.1 Core Technologies
-
-![Core Technologies
-](doc/core_technologies.png)
-
-#### 3.3 Cross-Module Integration
-
-##### 3.3.1 Data Flow
-
-![Data Flow](doc/data_flow.png)
 
 ---
 
@@ -180,68 +165,42 @@ This phase focused on developing effective communication and project management 
 
 ### Module 3: AI Job Matching Algorithm
 
-This module will enhance user experience by intelligently suggesting relevant jobs to freelancers based on their skills, experience, and past activities.
+**Goal**: Suggest jobs based on freelancer skills, experience, and behavior.
 
-#### Features Planned:
-
-- Skill-based, experience-based, and behavior-based job recommendations.
-- Utilization of machine learning models (using scikit-learn and TensorFlow).
-- Continuous learning from freelancer activities to improve matching accuracy over time.
-
-#### Technology Stack:
-
-- **Python**
-- **scikit-learn**
-- **TensorFlow**
-
-🎯 Goal: Build and integrate the recommendation engine with the job listing and freelancer dashboard.
+- **Features**: 
+  - Skill, experience, and behavior-based recommendations.
+  - Continuous learning from freelancer activities.
+  
+- **Technology**: Python, scikit-learn, TensorFlow.
 
 ---
 
 ### Module 4: Secure Payment & Escrow System
 
-This module will ensure safe and transparent financial transactions between freelancers and employers.
+**Goal**: Ensure secure financial transactions between freelancers and employers.
 
-#### Features Planned:
-
-- Escrow system to securely hold funds after project agreement.
-- Automatic release of payment upon project completion and mutual confirmation.
-- Integration of a trusted payment gateway for smooth transaction processing.
-
-#### Technology Stack:
-
-- **Payment Gateway API** (e.g., Razorpay, Stripe, or PayPal)
-- **SQL Database** for transaction record management and escrow tracking.
-
-🎯 Goal: Implement secure payment workflows ensuring trust between platform users.
+- **Features**:
+  - Escrow system for holding funds.
+  - Automatic payment release upon project completion.
+  
+- **Technology**: Payment Gateway API (Razorpay, Stripe, PayPal), SQL.
 
 ---
 
 ### Module 5: Analytics & Insights Module
 
-This module will provide powerful analytics to help both freelancers and employers make informed decisions.
+**Goal**: Provide analytics to help freelancers and employers make informed decisions.
 
-#### Features Planned:
+- **Features**:
+  - Job trends, freelancer ratings, project completion metrics.
+  - Dashboards for both freelancers and employers.
 
-- Track job trends, success rates, freelancer ratings, and project completion metrics.
-- Analytics dashboards for freelancers to understand market demands.
-- Employer analytics to assess freelancer performance and success history.
-
-#### Technology Stack:
-
-- **Backend Data Aggregation** (Java APIs)
-- **Frontend Data Visualization** (using React libraries like Chart.js or Recharts)
-- **SQL** for data storage and querying.
-
-🎯 Goal: Deliver clear, actionable insights via interactive dashboards to enhance decision-making.
-
-- **Gesture Recognition Module**: Verifying that the model correctly identifies ASL gestures.
-- **Speech-to-Text API**: Ensuring the accuracy and reliability of the speech-to-text conversion.
-- **UI Interactions**: Testing that all user interactions, buttons, and screens function as expected.
-
-Each module will undergo rigorous testing to catch any bugs early and ensure the app performs reliably across various devices.
+- **Technology**: Java APIs (backend), React (frontend), SQL.
 
 ---
+
+Each module will undergo thorough testing to ensure reliability across devices.
+
 
 ## 5. Software & Hardware Requirements
 
