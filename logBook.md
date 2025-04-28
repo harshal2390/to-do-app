@@ -54,10 +54,14 @@
 
 #### Detailed Comparison Table
 
-Platform | Pros | Cons | Fees | AI Features
-Upwork | Large user base, secure | High service fees, complex bidding | 5-20% commission | Basic recommendations
-Freelancer.com | Variety of jobs | Fake job postings, quality issues | 10% commission | Basic matching
-Fiverr | Quick gig posting | Limited for large projects | 20% commission | No smart matching
+## Freelancing Platform Comparison
+
+| Platform        | Pros                          | Cons                          | Fees             | AI Features              |
+|-----------------|-------------------------------|-------------------------------|------------------|--------------------------|
+| **Upwork**      | Large user base, secure       | High service fees, complex bidding | 5-20% commission | Basic recommendations     |
+| **Freelancer.com** | Variety of jobs              | Fake job postings, quality issues | 10% commission   | Basic matching            |
+| **Fiverr**      | Quick gig posting             | Limited for large projects    | 20% commission   | No smart matching         |
+
 
 ---
 
@@ -93,12 +97,16 @@ Fiverr | Quick gig posting | Limited for large projects | 20% commission | No sm
 
 #### 3.2 Technology Stack
 
-Module | Technologies Used
-Freelancer & Employer Management | React, Node,Express, MySQL
-AI Job Matching | Python (scikit-learn, TensorFlow)
-Secure Payment & Escrow | Payment Gateway API, SQL
-Communication Tools | WebSocket, Cloud Storage
-Analytics & Insights | MySQL Queries, Data Visualization
+## Module and Technologies Used
+
+| Module                        | Technologies Used                    |
+|-------------------------------|--------------------------------------|
+| Freelancer & Employer Management | React, Node, Express, MySQL          |
+| AI Job Matching               | Python (scikit-learn, TensorFlow)    |
+| Secure Payment & Escrow       | Payment Gateway API, SQL            |
+| Communication Tools           | WebSocket, Cloud Storage            |
+| Analytics & Insights          | MySQL Queries, Data Visualization   |
+
 
 ##### 3.2.1 Core Technologies
 
